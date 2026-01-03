@@ -1,0 +1,7 @@
+streamlit
+edge-tts
+moviepy
+easyocr
+opencv-python-headless
+googletrans==4.0.0-rc1
+numpy
